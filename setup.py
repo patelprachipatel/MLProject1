@@ -23,7 +23,7 @@ def get_requirements(file_path:str) -> List[str]:
 
 
 setup(
-name='MLProject1',
+name='mlproject1',
 version='0.0.1',
 author='PrachiPatel',
 author_email='prachi.patel.business@gmail.com',
