@@ -1,5 +1,11 @@
 numpy
 pandas
 matplotlib
+python-dotenv
+mysql-connector-python
+pymysql
+scikit-learn
+cryptography
+
 
 # -e .
